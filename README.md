@@ -9,6 +9,7 @@
 + **ari-s.com**: go.ari-s.com/ --> https://ari-s.com/
 + **ocr demo**: go.ari-s.com/ocr/ --> https://colab.research.google.com/drive/1KKziyc4Tz3kfWYp9Vzw1xFYjAUtybpzg
 + **ocr slides**: go.ari-s.com/ocrslides/ --> https://docs.google.com/presentation/d/1k2JWUmWrmrb340hNw-IbpPDwydQgo6WFiirCFxGZCy0/edit
++ **top songs 2026.02**: go.ari-s.com/2026.02 --> https://open.spotify.com/playlist/0sOFamL8MXocxL3DfHGSe7?si=474785217fe54254
 
 ## About this branch
 
